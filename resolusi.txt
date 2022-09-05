@@ -1,5 +1,9 @@
 resolusi tahun ini
 -. dapat menjadi frontend 
+    *css
+    *java
+    *laravel
 -. menyelesaikan kuliah cum laude
 -. mendapatkan relasi baru dengan expert
 -. bisnis program
+-. berlatih public speaking
