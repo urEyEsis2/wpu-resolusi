@@ -1,5 +1,7 @@
 resolusi tahun ini
 -. dapat menjadi frontend 
--. menyelesaikan kuliah cum laude
+    *react
+    *angular
 -. mendapatkan relasi baru dengan expert
 -. bisnis program
+-. lulus kuliah dengan rasa puas
