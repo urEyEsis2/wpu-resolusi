@@ -5,5 +5,4 @@ resolusi tahun ini
     *laravel
 -. menyelesaikan kuliah cum laude
 -. mendapatkan relasi baru dengan expert
--. bisnis program
 -. berlatih public speaking
